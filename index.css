@@ -1,0 +1,92 @@
+body{
+    background: black;
+    font-family: 'Roboto', sans-serif;
+}
+#texto{ 
+margin:0px 10px 10px 10px;
+}
+#principal{
+    position:absolute;
+    margin:auto;
+    top:0;
+    right:0;
+    bottom:0;
+    left:0;
+    background:white;
+    width: 400px;
+    height: 600px
+}
+#contenedor1{
+    width: 100%;
+    height: 8%;
+    display:table;
+    font-size: 20px;
+    text-align:right;
+}
+#contenedor1i{
+    width: 8.75%;
+    display:table-cell;
+    vertical-align: middle;
+}
+#texto1i{
+    padding-right: 5px
+}
+#contenedor1m{
+    width: 25%;
+    display:table-cell;
+    vertical-align: middle;
+    text-align: left;
+    font-size:12px;
+}
+#contenedor1d{
+    width: 66.25%;
+    display:table-cell;
+    vertical-align: middle;
+}
+#texto1d{
+    padding-right:10px;
+}
+#contenedor2{
+    background:white url("torresdelpaine.jpg") center top/cover  no-repeat;
+    width: 100%;
+    height: 50%;
+    display:block;
+}
+#contenedor3{
+    width: 100%;
+    height: 8%;
+    display:table;
+    font-size:20px;
+    text-align:center;
+}
+#contenedor31{
+    width: 10%;
+    display:table-cell;
+    vertical-align: middle;
+}
+#contenedor32{
+    width: 10%;
+    display:table-cell;
+    vertical-align: middle;
+}    
+#contenedor33{
+    width: 10%;
+    display:table-cell;
+    vertical-align: middle;
+    }    
+#contenedor34{
+    width: 60%;
+    display:table-cell;
+}
+#contenedor35{
+    width: 10%;
+    display:table-cell;
+    vertical-align: middle;
+}
+#contenedor4{
+    width: 100%;
+    height: 34%;
+    display:block;
+    text-align:justify;
+    font-size: 12px
+}
